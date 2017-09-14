@@ -1,0 +1,56 @@
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover init
+INFO: RobotMover --> init() - Initializing Prop file , RobotMoverBean, logger instance
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - PLACE 5,5,NORTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: PLACE command NOT executed - PLACE 5,5,NORTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - PLACE 1,1,SOUTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Robot placed successfully - PLACE 1,1,SOUTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - PLACE 2,2,NORTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Robot placed successfully - PLACE 2,2,NORTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Invalid at this time - PLACE 2 2 NORTH
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - PLACE 3,4,WEST
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Robot placed successfully - PLACE 3,4,WEST
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - PLACE 3,3,EAST
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Robot placed successfully - PLACE 3,3,EAST
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executePLACECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executeMOVECommand() - ENTRY
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMoverUtil - executeMOVECommand() - EXIT
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: Command Requested - MOVE
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: After executing command - MOVE - (3,4,EAST)
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: RobotMover - REPORT Command requested
+Sep 14, 2017 11:15:55 AM com.robot.mover.RobotMover main
+INFO: (3,4,EAST)
